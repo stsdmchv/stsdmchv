@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="stsdmchv | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.js" />][telegram]
+[<img align="left" alt="stsdmchv | Telegram" width="22px" src="https://telegram.org/img/website_icon.svg" />][telegram]
 [<img align="left" alt="stsdmchv | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="stsdmchv | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="stsdmchv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
