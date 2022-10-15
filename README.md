@@ -38,10 +38,9 @@
 
 [vscode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[github]: https://github.com/
-[terminal]: https://ru.wikipedia.org/wiki/Yakuake
+[github]: https://github.com/stsdmchv
 
-[website]: https://stsdmchv.github.com
+[website]: https://stsdmchv.github.io
 [twitter]: https://twitter.com/stsdmchv
 [instagram]: https://instagram.com/stsdmchv
 [linkedin]: https://linkedin.com/in/stsdmchv/
