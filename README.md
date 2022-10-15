@@ -29,13 +29,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="stsdmchv's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stsdmchv&show_icons=true&hide_border=true" />
-
-</details>
-
 [vscode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/stsdmchv
