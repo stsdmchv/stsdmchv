@@ -1,8 +1,5 @@
 ### Stanislav Demichev
 
-[![Twitter Follow](https://img.shields.io/badge/FOLLOW%20%40stsdmchv-GO-blue)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstsdmchv&screen_name=stsdmchv)
-
-
 ### Connect with me:
 
 [<img align="left" alt="stsdmchv | Telegram" width="22px" src="https://telegram.org/img/website_icon.svg" />][telegram]
